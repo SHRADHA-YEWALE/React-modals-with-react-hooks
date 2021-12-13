@@ -1,0 +1,89 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.Modal1 {
+  display: block;
+  position: relative;
+  left: 3;
+  top: 4;
+  z-index: 9999;
+  width: 20em;
+  height: 10em;
+  background-color: #ffffff;
+  -webkit-transition: 0.5s;
+  overflow: auto;
+  transition: all 0.3s linear;
+  border-width: 3em;
+  border: 1px solid #888;
+}
+
+.Modal2 {
+  display: block;
+  position: relative;
+  left: 50;
+  top: 5;
+  z-index: 500;
+  width: 20em;
+  height: 10em;
+  background-color: #ffffff;
+  -webkit-transition: 0.5s;
+  overflow: auto;
+  transition: all 0.3s linear;
+  border-width: 3em;
+  border: 1px solid #888;
+}
+
+.Modal2 {
+  display: block;
+  position: relative;
+  left: 50;
+  top: 5;
+  z-index: 500;
+  width: 20em;
+  height: 10em;
+  background-color: #ffffff;
+  -webkit-transition: 0.5s;
+  overflow: auto;
+  transition: all 0.3s linear;
+  border-width: 3em;
+  border: 1px solid #888;
+}
+
+.Modal3 {
+  display: block;
+  position: relative;
+  left: 50;
+  top: 5;
+  z-index: 500;
+  width: 20em;
+  height: 10em;
+  background-color: #ffffff;
+  -webkit-transition: 0.5s;
+  overflow: auto;
+  transition: all 0.3s linear;
+  border-width: 3em;
+  border: 1px solid #888;
+}
+
+.modal-header {
+  padding: 2px 16px;
+  background-color: #655cb8;
+  color: white;
+}
+
+.modal-body {
+  padding: 30px 56px;
+}
+.modal-footer {
+  padding: 4px 56px;
+  background-color: #fdfffd;
+  color: white;
+}
+
+.Close {
+  color: #2e2d2d;
+  float: right;
+  font-size: 16px;
+}
